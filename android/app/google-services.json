@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617446517454",
+    "firebase_url": "https://slow-chat.firebaseio.com",
+    "project_id": "slow-chat",
+    "storage_bucket": "slow-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617446517454:android:2f07303a3f438f58763e9f",
+        "android_client_info": {
+          "package_name": "co.gustavoloureiro.slow_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617446517454-uavjlj9m40tqgt1s2kta35qt48elituk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZCBO1hxc21NrjfVinkPITh1Cd4z1U94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617446517454-uavjlj9m40tqgt1s2kta35qt48elituk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
